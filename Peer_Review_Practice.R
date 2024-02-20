@@ -19,6 +19,7 @@
 #' 
 #' @export
 
+# Adding a comment
 summix_network <- function(data = data,
                            sum_res = sum_res,
                            reference = reference,
