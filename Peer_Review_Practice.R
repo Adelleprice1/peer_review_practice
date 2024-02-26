@@ -1,3 +1,4 @@
+##########################################ADDED SOME COMMENTS and FEEDBACK in code file#####################################################
 #' summix_network
 #'
 #' @description
